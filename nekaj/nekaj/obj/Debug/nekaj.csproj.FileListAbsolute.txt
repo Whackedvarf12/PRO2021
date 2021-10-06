@@ -1,0 +1,7 @@
+D:\PRO2021\nekaj\nekaj\bin\Debug\nekaj.exe.config
+D:\PRO2021\nekaj\nekaj\bin\Debug\nekaj.exe
+D:\PRO2021\nekaj\nekaj\bin\Debug\nekaj.pdb
+D:\PRO2021\nekaj\nekaj\obj\Debug\nekaj.csproj.AssemblyReference.cache
+D:\PRO2021\nekaj\nekaj\obj\Debug\nekaj.csproj.CoreCompileInputs.cache
+D:\PRO2021\nekaj\nekaj\obj\Debug\nekaj.exe
+D:\PRO2021\nekaj\nekaj\obj\Debug\nekaj.pdb

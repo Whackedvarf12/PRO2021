@@ -10,7 +10,7 @@ namespace rekurzijavaja
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(fib(69));
+            Console.WriteLine(peta(4));
             Console.ReadLine();
         }
         static int potencaIter(int n)
@@ -44,9 +44,41 @@ namespace rekurzijavaja
                 return fib(n-1)+fib(n-2);
             }
         }
-        static int tretja()
+        static int tretja(int n)
         {
-
+            if (n==1 || n==2)
+            {
+                return 2;
+            }
+            else
+            {
+                return tretja(n-2)*tretja(n-1)-1;
+            }
+        }
+        static int cetrta(int n)
+        {
+            if (n==1)
+            {
+                return 2;
+            }
+            else
+            {
+                return 3 * cetrta(n - 1) + 2;
+            }
+        }
+        static int peta(int n)
+        {
+            if (n == 1)
+            {
+                return 1;
+            }
+            else if (n == 2)
+            {
+                return 2;
+            }
+            else {
+                return peta(n - 1) * 2 + peta(n - 2);
+            }
         }
     }
 }

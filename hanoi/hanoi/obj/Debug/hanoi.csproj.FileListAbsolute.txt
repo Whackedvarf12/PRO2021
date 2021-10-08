@@ -1,0 +1,7 @@
+D:\PRO2021\hanoi\hanoi\bin\Debug\hanoi.exe.config
+D:\PRO2021\hanoi\hanoi\bin\Debug\hanoi.exe
+D:\PRO2021\hanoi\hanoi\bin\Debug\hanoi.pdb
+D:\PRO2021\hanoi\hanoi\obj\Debug\hanoi.csproj.AssemblyReference.cache
+D:\PRO2021\hanoi\hanoi\obj\Debug\hanoi.csproj.CoreCompileInputs.cache
+D:\PRO2021\hanoi\hanoi\obj\Debug\hanoi.exe
+D:\PRO2021\hanoi\hanoi\obj\Debug\hanoi.pdb

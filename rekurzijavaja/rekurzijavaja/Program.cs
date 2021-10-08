@@ -13,6 +13,7 @@ namespace rekurzijavaja
             Console.WriteLine(peta(4));
             Console.ReadLine();
         }
+
         static int potencaIter(int n)
         {
             int pot = 1;
@@ -22,6 +23,7 @@ namespace rekurzijavaja
             }
             return pot;
         }
+
         static int potencaRek(int n)
         {
             if (n==0)
@@ -33,6 +35,7 @@ namespace rekurzijavaja
                 return 2 * potencaRek(n - 1);
             }
         }
+
         static int fib(int n)
         {
             if (n == 1 || n==2)
@@ -44,39 +47,36 @@ namespace rekurzijavaja
                 return fib(n-1)+fib(n-2);
             }
         }
+
         static int tretja(int n)
         {
-            if (n==1 || n==2)
-            {
+            if (n==1 || n==2){
                 return 2;
             }
-            else
-            {
+            else{
                 return tretja(n-2)*tretja(n-1)-1;
             }
         }
+
         static int cetrta(int n)
         {
-            if (n==1)
-            {
+            if (n==1){
                 return 2;
             }
-            else
-            {
+            else{
                 return 3 * cetrta(n - 1) + 2;
             }
         }
+
         static int peta(int n)
         {
-            if (n == 1)
-            {
+            if (n == 1){
                 return 1;
             }
-            else if (n == 2)
-            {
+            else if (n == 2){
                 return 2;
             }
-            else {
+            else{
                 return peta(n - 1) * 2 + peta(n - 2);
             }
         }

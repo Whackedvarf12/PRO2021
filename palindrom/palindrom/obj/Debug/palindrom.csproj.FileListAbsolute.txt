@@ -1,0 +1,7 @@
+D:\PRO2021\palindrom\palindrom\bin\Debug\palindrom.exe.config
+D:\PRO2021\palindrom\palindrom\bin\Debug\palindrom.exe
+D:\PRO2021\palindrom\palindrom\bin\Debug\palindrom.pdb
+D:\PRO2021\palindrom\palindrom\obj\Debug\palindrom.csproj.CoreCompileInputs.cache
+D:\PRO2021\palindrom\palindrom\obj\Debug\palindrom.exe
+D:\PRO2021\palindrom\palindrom\obj\Debug\palindrom.pdb
+D:\PRO2021\palindrom\palindrom\obj\Debug\palindrom.csproj.AssemblyReference.cache

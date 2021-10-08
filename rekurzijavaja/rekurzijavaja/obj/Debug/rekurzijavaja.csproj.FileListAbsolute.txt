@@ -5,3 +5,10 @@ D:\PRO2021\rekurzijavaja\rekurzijavaja\bin\Debug\rekurzijavaja.exe
 D:\PRO2021\rekurzijavaja\rekurzijavaja\bin\Debug\rekurzijavaja.pdb
 D:\PRO2021\rekurzijavaja\rekurzijavaja\obj\Debug\rekurzijavaja.exe
 D:\PRO2021\rekurzijavaja\rekurzijavaja\obj\Debug\rekurzijavaja.pdb
+F:\PRO2021\rekurzijavaja\rekurzijavaja\bin\Debug\rekurzijavaja.exe.config
+F:\PRO2021\rekurzijavaja\rekurzijavaja\bin\Debug\rekurzijavaja.exe
+F:\PRO2021\rekurzijavaja\rekurzijavaja\bin\Debug\rekurzijavaja.pdb
+F:\PRO2021\rekurzijavaja\rekurzijavaja\obj\Debug\rekurzijavaja.csprojAssemblyReference.cache
+F:\PRO2021\rekurzijavaja\rekurzijavaja\obj\Debug\rekurzijavaja.csproj.CoreCompileInputs.cache
+F:\PRO2021\rekurzijavaja\rekurzijavaja\obj\Debug\rekurzijavaja.exe
+F:\PRO2021\rekurzijavaja\rekurzijavaja\obj\Debug\rekurzijavaja.pdb

@@ -1,0 +1,7 @@
+D:\PRO2021\IBlyat\IBlyat\bin\Debug\IBlyat.exe.config
+D:\PRO2021\IBlyat\IBlyat\bin\Debug\IBlyat.exe
+D:\PRO2021\IBlyat\IBlyat\bin\Debug\IBlyat.pdb
+D:\PRO2021\IBlyat\IBlyat\obj\Debug\IBlyat.csproj.AssemblyReference.cache
+D:\PRO2021\IBlyat\IBlyat\obj\Debug\IBlyat.csproj.CoreCompileInputs.cache
+D:\PRO2021\IBlyat\IBlyat\obj\Debug\IBlyat.exe
+D:\PRO2021\IBlyat\IBlyat\obj\Debug\IBlyat.pdb

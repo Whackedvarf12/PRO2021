@@ -5,3 +5,10 @@ C:\Users\student\source\repos\sortiranje\sortiranje\obj\Debug\sortiranje.csproj.
 C:\Users\student\source\repos\sortiranje\sortiranje\obj\Debug\sortiranje.csproj.CoreCompileInputs.cache
 C:\Users\student\source\repos\sortiranje\sortiranje\obj\Debug\sortiranje.exe
 C:\Users\student\source\repos\sortiranje\sortiranje\obj\Debug\sortiranje.pdb
+D:\PRO2021\sortiranje\sortiranje\bin\Debug\sortiranje.exe.config
+D:\PRO2021\sortiranje\sortiranje\bin\Debug\sortiranje.exe
+D:\PRO2021\sortiranje\sortiranje\bin\Debug\sortiranje.pdb
+D:\PRO2021\sortiranje\sortiranje\obj\Debug\sortiranje.csproj.AssemblyReference.cache
+D:\PRO2021\sortiranje\sortiranje\obj\Debug\sortiranje.csproj.CoreCompileInputs.cache
+D:\PRO2021\sortiranje\sortiranje\obj\Debug\sortiranje.exe
+D:\PRO2021\sortiranje\sortiranje\obj\Debug\sortiranje.pdb

@@ -9,7 +9,7 @@ namespace IBlyat
     class Kupec60:Class1
     {
         private int visjaTarifaPorabljeno;
-        public new void beleziKlic(int minute, int tip)
+        public override void beleziKlic(int minute, int tip)
         {
             switch (tip)
             {

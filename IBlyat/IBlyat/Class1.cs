@@ -19,7 +19,7 @@ namespace IBlyat
         {
             stanje -= placilo;
         }
-        public void beleziKlic(int minute, int tip)
+        public virtual void beleziKlic(int minute, int tip)
         {
             switch (tip)
             {

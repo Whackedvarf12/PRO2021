@@ -1,0 +1,10 @@
+D:\PRO2021\kompleksna\kompleksna\bin\Debug\kompleksna.exe.config
+D:\PRO2021\kompleksna\kompleksna\bin\Debug\kompleksna.exe
+D:\PRO2021\kompleksna\kompleksna\bin\Debug\kompleksna.pdb
+D:\PRO2021\kompleksna\kompleksna\obj\Debug\kompleksna.csproj.AssemblyReference.cache
+D:\PRO2021\kompleksna\kompleksna\obj\Debug\kompleksna.Form1.resources
+D:\PRO2021\kompleksna\kompleksna\obj\Debug\kompleksna.Properties.Resources.resources
+D:\PRO2021\kompleksna\kompleksna\obj\Debug\kompleksna.csproj.GenerateResource.cache
+D:\PRO2021\kompleksna\kompleksna\obj\Debug\kompleksna.csproj.CoreCompileInputs.cache
+D:\PRO2021\kompleksna\kompleksna\obj\Debug\kompleksna.exe
+D:\PRO2021\kompleksna\kompleksna\obj\Debug\kompleksna.pdb

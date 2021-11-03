@@ -1,0 +1,7 @@
+D:\PRO2021\racunanje\racunanje\bin\Debug\racunanje.exe.config
+D:\PRO2021\racunanje\racunanje\bin\Debug\racunanje.exe
+D:\PRO2021\racunanje\racunanje\bin\Debug\racunanje.pdb
+D:\PRO2021\racunanje\racunanje\obj\Debug\racunanje.csproj.AssemblyReference.cache
+D:\PRO2021\racunanje\racunanje\obj\Debug\racunanje.csproj.CoreCompileInputs.cache
+D:\PRO2021\racunanje\racunanje\obj\Debug\racunanje.exe
+D:\PRO2021\racunanje\racunanje\obj\Debug\racunanje.pdb

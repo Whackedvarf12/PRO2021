@@ -1,0 +1,7 @@
+D:\PRO2021\Sklad\Sklad\bin\Debug\Sklad.exe.config
+D:\PRO2021\Sklad\Sklad\bin\Debug\Sklad.exe
+D:\PRO2021\Sklad\Sklad\bin\Debug\Sklad.pdb
+D:\PRO2021\Sklad\Sklad\obj\Debug\Sklad.csproj.AssemblyReference.cache
+D:\PRO2021\Sklad\Sklad\obj\Debug\Sklad.csproj.CoreCompileInputs.cache
+D:\PRO2021\Sklad\Sklad\obj\Debug\Sklad.exe
+D:\PRO2021\Sklad\Sklad\obj\Debug\Sklad.pdb

@@ -1,0 +1,10 @@
+D:\PRO2021\Karte\Karte\bin\Debug\Karte.exe.config
+D:\PRO2021\Karte\Karte\bin\Debug\Karte.exe
+D:\PRO2021\Karte\Karte\bin\Debug\Karte.pdb
+D:\PRO2021\Karte\Karte\obj\Debug\Karte.csproj.AssemblyReference.cache
+D:\PRO2021\Karte\Karte\obj\Debug\Karte.Form1.resources
+D:\PRO2021\Karte\Karte\obj\Debug\Karte.Properties.Resources.resources
+D:\PRO2021\Karte\Karte\obj\Debug\Karte.csproj.GenerateResource.cache
+D:\PRO2021\Karte\Karte\obj\Debug\Karte.csproj.CoreCompileInputs.cache
+D:\PRO2021\Karte\Karte\obj\Debug\Karte.exe
+D:\PRO2021\Karte\Karte\obj\Debug\Karte.pdb

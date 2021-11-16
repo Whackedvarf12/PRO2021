@@ -1,0 +1,7 @@
+D:\PRO2021\meteor\meteor\obj\Debug\meteor.csproj.AssemblyReference.cache
+D:\PRO2021\meteor\meteor\obj\Debug\meteor.csproj.CoreCompileInputs.cache
+D:\PRO2021\meteor\meteor\bin\Debug\meteor.exe.config
+D:\PRO2021\meteor\meteor\bin\Debug\meteor.exe
+D:\PRO2021\meteor\meteor\bin\Debug\meteor.pdb
+D:\PRO2021\meteor\meteor\obj\Debug\meteor.exe
+D:\PRO2021\meteor\meteor\obj\Debug\meteor.pdb

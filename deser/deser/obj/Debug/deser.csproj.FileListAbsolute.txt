@@ -1,0 +1,7 @@
+D:\PRO2021\deser\deser\bin\Debug\deser.exe.config
+D:\PRO2021\deser\deser\bin\Debug\deser.exe
+D:\PRO2021\deser\deser\bin\Debug\deser.pdb
+D:\PRO2021\deser\deser\obj\Debug\deser.csproj.AssemblyReference.cache
+D:\PRO2021\deser\deser\obj\Debug\deser.csproj.CoreCompileInputs.cache
+D:\PRO2021\deser\deser\obj\Debug\deser.exe
+D:\PRO2021\deser\deser\obj\Debug\deser.pdb

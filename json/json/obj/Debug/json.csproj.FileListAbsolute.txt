@@ -1,0 +1,10 @@
+D:\PRO2021\json\json\obj\Debug\json.csproj.AssemblyReference.cache
+D:\PRO2021\json\json\obj\Debug\json.csproj.CoreCompileInputs.cache
+D:\PRO2021\json\json\bin\Debug\json.exe.config
+D:\PRO2021\json\json\bin\Debug\json.exe
+D:\PRO2021\json\json\bin\Debug\json.pdb
+D:\PRO2021\json\json\bin\Debug\Newtonsoft.Json.dll
+D:\PRO2021\json\json\bin\Debug\Newtonsoft.Json.xml
+D:\PRO2021\json\json\obj\Debug\json.csproj.CopyComplete
+D:\PRO2021\json\json\obj\Debug\json.exe
+D:\PRO2021\json\json\obj\Debug\json.pdb

@@ -1,0 +1,6 @@
+D:\PRO2021\pisanjebin\pisanjebin\bin\Debug\pisanjebin.exe.config
+D:\PRO2021\pisanjebin\pisanjebin\bin\Debug\pisanjebin.exe
+D:\PRO2021\pisanjebin\pisanjebin\bin\Debug\pisanjebin.pdb
+D:\PRO2021\pisanjebin\pisanjebin\obj\Debug\pisanjebin.csproj.CoreCompileInputs.cache
+D:\PRO2021\pisanjebin\pisanjebin\obj\Debug\pisanjebin.exe
+D:\PRO2021\pisanjebin\pisanjebin\obj\Debug\pisanjebin.pdb

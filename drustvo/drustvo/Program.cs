@@ -16,7 +16,7 @@ namespace drustvo
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Vnos());
+            Application.Run(new Form2());
         }
     }
 }

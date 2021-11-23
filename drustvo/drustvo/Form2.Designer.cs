@@ -32,6 +32,7 @@ namespace drustvo
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.vnosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.pogledToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.tiskanjeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -39,7 +40,8 @@ namespace drustvo
             // 
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.vnosToolStripMenuItem,
-            this.pogledToolStripMenuItem});
+            this.pogledToolStripMenuItem,
+            this.tiskanjeToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(800, 24);
@@ -59,6 +61,13 @@ namespace drustvo
             this.pogledToolStripMenuItem.Size = new System.Drawing.Size(56, 20);
             this.pogledToolStripMenuItem.Text = "pogled";
             this.pogledToolStripMenuItem.Click += new System.EventHandler(this.pogledToolStripMenuItem_Click);
+            // 
+            // tiskanjeToolStripMenuItem
+            // 
+            this.tiskanjeToolStripMenuItem.Name = "tiskanjeToolStripMenuItem";
+            this.tiskanjeToolStripMenuItem.Size = new System.Drawing.Size(61, 20);
+            this.tiskanjeToolStripMenuItem.Text = "Tiskanje";
+            this.tiskanjeToolStripMenuItem.Click += new System.EventHandler(this.tiskanjeToolStripMenuItem_Click);
             // 
             // Form2
             // 
@@ -81,5 +90,6 @@ namespace drustvo
         private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.ToolStripMenuItem vnosToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem pogledToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem tiskanjeToolStripMenuItem;
     }
 }

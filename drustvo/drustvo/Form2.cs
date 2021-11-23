@@ -28,5 +28,11 @@ namespace drustvo
             Pregled a = new Pregled();
             a.Show();
         }
+
+        private void tiskanjeToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Tiskanje a = new Tiskanje();
+            a.Show();
+        }
     }
 }

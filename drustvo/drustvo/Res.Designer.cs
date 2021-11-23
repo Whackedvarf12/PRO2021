@@ -61,7 +61,7 @@ namespace drustvo {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to D:/PRO2021.
+        ///   Looks up a localized string similar to D:\PRO2021\dar.dat.
         /// </summary>
         internal static string pot {
             get {

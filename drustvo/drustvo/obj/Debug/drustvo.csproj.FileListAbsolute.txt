@@ -11,3 +11,8 @@ D:\PRO2021\drustvo\drustvo\obj\Debug\drustvo.pdb
 D:\PRO2021\drustvo\drustvo\obj\Debug\drustvo.Res.resources
 D:\PRO2021\drustvo\drustvo\obj\Debug\drustvo.Form2.resources
 D:\PRO2021\drustvo\drustvo\obj\Debug\drustvo.Pregled.resources
+D:\PRO2021\drustvo\drustvo\obj\Debug\drustvo.Tiskanje.resources
+D:\PRO2021\drustvo\drustvo\bin\Debug\drustvo.exe.manifest
+D:\PRO2021\drustvo\drustvo\bin\Debug\drustvo.application
+D:\PRO2021\drustvo\drustvo\obj\Debug\drustvo.exe.manifest
+D:\PRO2021\drustvo\drustvo\obj\Debug\drustvo.application

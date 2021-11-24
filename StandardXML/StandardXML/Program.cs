@@ -34,19 +34,19 @@ namespace StandardXML
             {
                 Console.WriteLine(a.Ime);
             }
-            VsiSKupaj v2= new VsiSKupaj();
-            string json = JsonConvert.SerializeObject(v, Formatting.Indented);
+            //VsiSKupaj v2= new VsiSKupaj();
+            //string json = JsonConvert.SerializeObject(v, Formatting.Indented);
 
-            FileStream fs2 = new FileStream("d:\\PRO2021\\liga.json", FileMode.Create);
-            StreamWriter s2 = new StreamWriter(fs2);
-            s2.Write(json);
-            s2.Close();
-            VsiSKupaj vs2 = JsonConvert.DeserializeObject<VsiSKupaj>(
-                File.ReadAllText("d:\\PRO2021\\liga.json"));
-            foreach (Moštvo a in v2.liga)
-            {
-                Console.WriteLine(a.Ime);
-            }
+            //FileStream fs2 = new FileStream("d:\\PRO2021\\liga.json", FileMode.Create);
+            //StreamWriter s2 = new StreamWriter(fs2);
+            //s2.Write(json);
+            //s2.Close();
+            //VsiSKupaj vs2 = JsonConvert.DeserializeObject<VsiSKupaj>(
+            //    File.ReadAllText("d:\\PRO2021\\liga.json"));
+            //foreach (Moštvo a in v2.liga)
+            //{
+            //    Console.WriteLine(a.Ime);
+            //}
             
             Console.ReadLine();
         }

@@ -13,11 +13,9 @@
         </Grid.ColumnDefinitions>
         <Menu Grid.Column="1" HorizontalAlignment="Left" Height="31" Margin="10,10,0,0" VerticalAlignment="Top" Width="227">
             <MenuItem Header="Vnesi" Click="MenuItem_Click"/>
-            <MenuItem Header="Pregled"/>
+            <MenuItem Header="Pregled" Click="MenuItem_Click_1"/>
             <MenuItem Header="Tiskanje"/>
-            <MenuItem Header="Zaščita">
-                <MenuItem Header="Zaščiti"/>
-                <MenuItem Header="Obnovi"/>
+            <MenuItem Header="Zaščita" Click="MenuItem_Click_2">
             </MenuItem>
         </Menu>
 

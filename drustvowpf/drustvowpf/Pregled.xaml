@@ -5,8 +5,26 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:drustvowpf"
         mc:Ignorable="d"
-        Title="Pregled" Height="450" Width="800">
-    <Grid>
+        Title="Pregled" Height="450" Width="800"
+        Loaded="Window_Loaded_1">
         
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <ToolBar Grid.Row="0">
+            <Button Content=""></Button>
+        </ToolBar>
+        <DataGrid x:Name="dg" Grid.Row="1">
+            <!--<DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding zap}"></DataGridTextColumn>
+                <DataGridTextColumn Binding="{Binding dat}"></DataGridTextColumn>
+                <DataGridTextColumn Binding="{Binding nam}"></DataGridTextColumn>
+                <DataGridTextColumn Binding="{Binding vso}"></DataGridTextColumn>
+                <DataGridTextColumn Binding="{Binding opo}"></DataGridTextColumn>
+            </DataGrid.Columns>-->
+        </DataGrid>
+
     </Grid>
 </Window>

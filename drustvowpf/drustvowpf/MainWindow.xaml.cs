@@ -30,5 +30,17 @@ namespace drustvowpf
             Vnosi x = new Vnosi();
             x.Show();
         }
+
+        private void MenuItem_Click_1(object sender, RoutedEventArgs e)
+        {
+            Pregled x = new Pregled();
+            x.Show();
+        }
+
+        private void MenuItem_Click_2(object sender, RoutedEventArgs e)
+        {
+            Zasciti x = new Zasciti();
+            x.Show();
+        }
     }
 }

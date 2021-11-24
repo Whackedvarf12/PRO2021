@@ -6,7 +6,16 @@
         xmlns:local="clr-namespace:drustvowpf"
         mc:Ignorable="d"
         Title="Zasciti" Height="450" Width="800">
+    
     <Grid>
-        
+
+
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+
+        </Grid.RowDefinitions>
+        <Button Content="zasciti" Grid.Column="0" Click="Button_Click"></Button>
+        <Button Content="obnovi" Grid.Column="0" Grid.Row="1" Click="Button_Click_1"></Button>
     </Grid>
 </Window>

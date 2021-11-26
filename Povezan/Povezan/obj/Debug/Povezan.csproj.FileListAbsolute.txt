@@ -1,0 +1,12 @@
+D:\PRO2021\Povezan\Povezan\bin\Debug\Povezan.exe.config
+D:\PRO2021\Povezan\Povezan\bin\Debug\Povezan.exe
+D:\PRO2021\Povezan\Povezan\bin\Debug\Povezan.pdb
+D:\PRO2021\Povezan\Povezan\obj\Debug\Povezan.csproj.AssemblyReference.cache
+D:\PRO2021\Povezan\Povezan\obj\Debug\Povezan.Form1.resources
+D:\PRO2021\Povezan\Povezan\obj\Debug\Povezan.Properties.Resources.resources
+D:\PRO2021\Povezan\Povezan\obj\Debug\Povezan.csproj.GenerateResource.cache
+D:\PRO2021\Povezan\Povezan\obj\Debug\Povezan.csproj.CoreCompileInputs.cache
+D:\PRO2021\Povezan\Povezan\obj\Debug\Povezan.exe
+D:\PRO2021\Povezan\Povezan\obj\Debug\Povezan.pdb
+D:\PRO2021\Povezan\Povezan\bin\Debug\northwnd.mdf
+D:\PRO2021\Povezan\Povezan\bin\Debug\northwnd_log.ldf

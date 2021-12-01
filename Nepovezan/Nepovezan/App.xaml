@@ -1,0 +1,9 @@
+﻿<Application x:Class="Nepovezan.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Nepovezan"
+             StartupUri="Racuni.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

@@ -1,0 +1,10 @@
+D:\PRO2021\BazaStudent\BazaStudent\bin\Debug\BazaStudent.exe.config
+D:\PRO2021\BazaStudent\BazaStudent\bin\Debug\BazaStudent.exe
+D:\PRO2021\BazaStudent\BazaStudent\bin\Debug\BazaStudent.pdb
+D:\PRO2021\BazaStudent\BazaStudent\obj\Debug\BazaStudent.csproj.AssemblyReference.cache
+D:\PRO2021\BazaStudent\BazaStudent\obj\Debug\BazaStudent.Form1.resources
+D:\PRO2021\BazaStudent\BazaStudent\obj\Debug\BazaStudent.Properties.Resources.resources
+D:\PRO2021\BazaStudent\BazaStudent\obj\Debug\BazaStudent.csproj.GenerateResource.cache
+D:\PRO2021\BazaStudent\BazaStudent\obj\Debug\BazaStudent.csproj.CoreCompileInputs.cache
+D:\PRO2021\BazaStudent\BazaStudent\obj\Debug\BazaStudent.exe
+D:\PRO2021\BazaStudent\BazaStudent\obj\Debug\BazaStudent.pdb

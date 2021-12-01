@@ -1,0 +1,7 @@
+D:\PRO2021\PoizvedbeVDrevesu\PoizvedbeVDrevesu\bin\Debug\PoizvedbeVDrevesu.exe.config
+D:\PRO2021\PoizvedbeVDrevesu\PoizvedbeVDrevesu\bin\Debug\PoizvedbeVDrevesu.exe
+D:\PRO2021\PoizvedbeVDrevesu\PoizvedbeVDrevesu\bin\Debug\PoizvedbeVDrevesu.pdb
+D:\PRO2021\PoizvedbeVDrevesu\PoizvedbeVDrevesu\obj\Debug\PoizvedbeVDrevesu.csproj.AssemblyReference.cache
+D:\PRO2021\PoizvedbeVDrevesu\PoizvedbeVDrevesu\obj\Debug\PoizvedbeVDrevesu.csproj.CoreCompileInputs.cache
+D:\PRO2021\PoizvedbeVDrevesu\PoizvedbeVDrevesu\obj\Debug\PoizvedbeVDrevesu.exe
+D:\PRO2021\PoizvedbeVDrevesu\PoizvedbeVDrevesu\obj\Debug\PoizvedbeVDrevesu.pdb

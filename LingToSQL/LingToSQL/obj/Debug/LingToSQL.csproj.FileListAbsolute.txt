@@ -1,0 +1,7 @@
+D:\PRO2021\LingToSQL\LingToSQL\bin\Debug\LingToSQL.exe.config
+D:\PRO2021\LingToSQL\LingToSQL\bin\Debug\LingToSQL.exe
+D:\PRO2021\LingToSQL\LingToSQL\bin\Debug\LingToSQL.pdb
+D:\PRO2021\LingToSQL\LingToSQL\obj\Debug\LingToSQL.csproj.AssemblyReference.cache
+D:\PRO2021\LingToSQL\LingToSQL\obj\Debug\LingToSQL.csproj.CoreCompileInputs.cache
+D:\PRO2021\LingToSQL\LingToSQL\obj\Debug\LingToSQL.exe
+D:\PRO2021\LingToSQL\LingToSQL\obj\Debug\LingToSQL.pdb
